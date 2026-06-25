@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "200722456673",
+    "project_id": "zeppe-6f7ee",
+    "storage_bucket": "zeppe-6f7ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200722456673:android:a5f593169633967f5e8a20",
+        "android_client_info": {
+          "package_name": "com.zeppe.deliveryapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkQeAGu10eJJeU8cJkjseFKZvmOpjdis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200722456673:android:8e122d4659fd8cd75e8a20",
+        "android_client_info": {
+          "package_name": "com.zeppe.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkQeAGu10eJJeU8cJkjseFKZvmOpjdis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200722456673:android:6ab4f1164eaa09fa5e8a20",
+        "android_client_info": {
+          "package_name": "com.zeppe.userapp1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrkQeAGu10eJJeU8cJkjseFKZvmOpjdis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
